@@ -52,7 +52,7 @@ function loa(){
         document.getElementById("extra").innerHTML="Extra: 0"
     }
 }
-function clear(){
-    document.getElementById('answer').innerHTML=""
-    console.log("hello")
+function clar(){
+    document.getElementById('answer').innerHTML="Possible combinations: "
+    document.getElementById("extra").innerHTML=""
 }
